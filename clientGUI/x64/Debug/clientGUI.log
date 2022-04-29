@@ -1,0 +1,6 @@
+﻿  process.cpp
+C:\c#\clientGUI\process.cpp(146,12): warning C4101: 'cMoney': unreferenced local variable
+C:\c#\clientGUI\process.cpp(146,20): warning C4101: 'nMoney': unreferenced local variable
+C:\c#\clientGUI\process.cpp(199,12): warning C4101: 'cMoney': unreferenced local variable
+C:\c#\clientGUI\process.cpp(199,20): warning C4101: 'nMoney': unreferenced local variable
+  clientGUI.vcxproj -> C:\c#\clientGUI\x64\Debug\clientGUI.exe
